@@ -1,2 +1,2 @@
-# Mi-primer-repositorio
-mi primer repositorio
+# los números primos
+
